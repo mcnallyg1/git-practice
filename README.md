@@ -8,7 +8,8 @@ Start by cloning the repo locally:
 ```
 git clone https://github.com/mcnallyg1/git-practice.git
 ```
-change the dir to the git repo
+
+Change the dir to the git repo
 ```
 cd git-practice/
 ```
@@ -20,12 +21,12 @@ git checkout -b <branch_name>
 
 **Add your name to names.txt**
 
-See your changes made  in names.txt
+See your changes made in names.txt
 ```
 git diff
 ```
 
-This pulls the latest changes from GitHub repo 
+Pulls the latest changes from GitHub repo 
 ```
 git pull origin master
 ```
@@ -33,20 +34,21 @@ git pull origin master
 **fix any conflicts**
 [Resolving conflicts in WebStorm](https://www.jetbrains.com/help/webstorm/resolving-conflicts.html)
 
-add the edited names.txt to the staging area
+Add the edited names.txt to the staging area
 ```
 git add names.txt
 ```
 
-saves your changes your branch
+Saves your changes in your branch
 ```
-git commit -m “your meassage”
+git commit -m “your message”
 ```
 
-shows your commit in the history of the branch
+Shows your commit in the history of the branch
 ```
 git log
 ```
+If needed press **q** to escape 
 
 Will push your saved changes to the GitHub repo
 ```
@@ -55,7 +57,7 @@ git push origin <branch_name>
 
 [Create a pull request](https://github.com/mcnallyg1/git-practice/compare)
 
-pick the base to be **master**
+Pick the base to be **master**
 Pick compare to be **<branch_name>**
 Click **Create pull request**
 
