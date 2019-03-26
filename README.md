@@ -32,7 +32,10 @@ git pull origin master
 ```
 
 **fix any conflicts**
+
 [Resolving conflicts in WebStorm](https://www.jetbrains.com/help/webstorm/resolving-conflicts.html)
+
+[Resolving conflicts in Visual Studio Code](https://code.visualstudio.com/docs/editor/versioncontrol#_merge-conflicts)
 
 Add the edited names.txt to the staging area
 ```
