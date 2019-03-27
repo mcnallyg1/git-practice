@@ -1,6 +1,11 @@
 Scott Lang
 Kitty Pryde
 Attila Vago
+A-M McCullagh
+Karl Cooney
+Eleanor Talbot
+Brendan Donegan
+Karl Allen
 Elaine Wilson
 Mark Barris
 Tom Holt
@@ -10,3 +15,6 @@ Ninad Todkari
 Laura Mulhair
 Chris Rooke
 Ceall O'Dúnlaing
+Mark Lennox
+Chris Rooke
+Cormac Neeson
