@@ -1,0 +1,16 @@
+Resources
+http://rogerdudler.github.io/git-guide/
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c
+https://github.com/jlord/git-it-electron
+https://scitronboy.com/code/simple-git-github-tutorial
+
+cheatsheets
+https://www.git-tower.com/blog/git-cheat-sheet/
+http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
+
+Video
+https://www.linkedin.com/learning/git-essential-training/who-should-use-git?u=2201786
+
+Plugin
+https://gitlens.amod.io/
